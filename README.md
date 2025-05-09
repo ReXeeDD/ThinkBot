@@ -58,17 +58,15 @@ python train.py
 
 ## Final structure
 -
-src/
--
-model/
--
- ├──refined_model/
--
-     ├──checkpoint-408  #fine tuned model after training
+project_root/
+├── src/
+├── model/
+│   ├── refined_model/
+│   │   └── checkpoint-408/
+│   │├── config.json
+│   │├── generation_config.json
+│   │├── merges.txt
+│   │├── pytorch_model.bin
+│   │├── tokenizer_config.json
+│   │└── vocab.json
 
-├── config.json             
-├── generation_config.json   
-├── merges.txt              
-├── pytorch_model.bin       
-├── tokenizer_config.json  
-└── vocab.json  
