@@ -58,16 +58,18 @@ python train.py
 
 ## Final structure
 
-project_root/
-├── src/
-├── model/
-│   ├── refined_model/
-│   │   └── checkpoint-408/
-│   ├── config.json
-│   ├── generation_config.json
-│   ├── merges.txt
-│   ├── pytorch_model.bin
-│   ├── tokenizer_config.json
-│   └── vocab.json
+## 📁 Project Structure 
+-
+
+project_root/src/
+
+project_root/model/refined_model/checkpoint-408/(model files that are trained by the project)
+
+project_root/model/config.json  
+project_root/model/generation_config.json  
+project_root/model/merges.txt  
+project_root/model/pytorch_model.bin  
+project_root/model/tokenizer_config.json  
+project_root/model/vocab.json
 
 
