@@ -59,7 +59,9 @@ python train.py
 ## Final structure
 -
 project_root/
+-
 ├── src/
+-
 ├── model/
 │   ├── refined_model/
 │   │   └── checkpoint-408/
