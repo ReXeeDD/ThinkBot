@@ -59,9 +59,13 @@ python train.py
 ## Final structure
 -
 src/
+-
 model/
+-
 ├──refined_model/
+-
     ├──checkpoint-408  #fine tuned model after training
+    -
 ├── config.json             
 ├── generation_config.json   
 ├── merges.txt              
