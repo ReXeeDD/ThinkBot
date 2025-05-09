@@ -42,7 +42,7 @@ python test.py
 ````
 https://huggingface.co/microsoft/DialoGPT-medium/tree/main
 -
-python traim.py
+python train.py
 
 ````
 -GET 
