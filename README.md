@@ -30,7 +30,7 @@ transformers
 ````
 jasdjahdjiadhjadajdojd
 ````
--place in model folder 
+-place in refined_model in model folder 
 
 ## Testing
 ```bash
