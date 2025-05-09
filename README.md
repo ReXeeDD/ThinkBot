@@ -62,9 +62,9 @@ src/
 -
 model/
 -
-├──refined_model/
+ ├──refined_model/
 -
-    ├──checkpoint-408  #fine tuned model after training
+     ├──checkpoint-408  #fine tuned model after training
 
 ├── config.json             
 ├── generation_config.json   
