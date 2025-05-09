@@ -57,18 +57,17 @@ python train.py
 -place in model folder
 
 ## Final structure
--
+
 project_root/
--
 ├── src/
--
 ├── model/
 │   ├── refined_model/
 │   │   └── checkpoint-408/
-│   │├── config.json
-│   │├── generation_config.json
-│   │├── merges.txt
-│   │├── pytorch_model.bin
-│   │├── tokenizer_config.json
-│   │└── vocab.json
+│   ├── config.json
+│   ├── generation_config.json
+│   ├── merges.txt
+│   ├── pytorch_model.bin
+│   ├── tokenizer_config.json
+│   └── vocab.json
+
 
