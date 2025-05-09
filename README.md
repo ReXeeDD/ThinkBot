@@ -34,19 +34,8 @@ transformers
 https://huggingface.co/ReXeeD/ThinkBot/upload/main
 ````
 -Download 
-├── config.json
-├── generation_config.json
-├── merges.txt
-├── model.safetensors
-├── optimizer.pt
-├── rng_state.pth
-├── scheduler.pt
-├── special_tokens_map.json
-├── tokenizer.json
-├── tokenizer_config.json
-├── trainer_state.json
-├── training_args.bin
-└── vocab.json
+-
+config.json,generation_config.json ,merges.txt ,model.safetensors,optimizer.pt ,rng_state.pth, scheduler.pt,special_tokens_map.json,tokenizer.json,tokenizer_config.json ,trainer_state.json,training_args.bin ,vocab.json
 
 place in  checkpoint-408 in model folder
 
