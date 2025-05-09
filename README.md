@@ -6,6 +6,7 @@
 A repository containing  files for a Transformer-based Large Language Model (LLM) compatible with the Hugging Face Transformers library.
 
 A conversational AI chatbot powered by a fine-tuned DialoGPT-medium model from Microsoft.
+-The txt file used to fine tune my model file was just a 3000 line conversation ,thus only a feasible output was generated ,but a large conversation file can produce a better output and will be computationally expensive,this project was just made in 1 hrs including the training part so if you have time to adjust the codes and use a better conversation.txt a very good output can be observed.
 
 
 ## 🚀 Features
