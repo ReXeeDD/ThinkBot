@@ -7,11 +7,11 @@ A repository containing  files for a Transformer-based Large Language Model (LLM
 
 A conversational AI chatbot powered by a fine-tuned DialoGPT-medium model from Microsoft.
 -
--The txt file used to fine tune my model file was just a 3000 line conversation ,thus only a feasible output was generated ,but a large conversation file can produce a better output and will be computationally expensive,this project was just made in 1 hrs including the training part so if you have time to adjust the codes and use a better conversation.txt a very good output can be observed.
+-The txt file used to fine tune my model file was just a 6000 line conversation , in my potato laptop(a better model tht was tuned on a T4 gpu will be posted later it is currenly under fine tuning with a 10 million line conversation ),thus only a feasible output was generated ,but a large conversation file can produce a better output and will be computationally expensive,this project was just made in 1 hrs including the training part so if you have time to adjust the codes and use a better conversation.txt a very good output can be observed.
 
 
 ## 🚀 Features
-- Pretrained/fine-tuned Transformer-based LLM
+- Pretrained+fine-tuned Transformer-based LLM
 - Hugging Face Transformers compatible
 - Safetensors format for secure model loading
 
